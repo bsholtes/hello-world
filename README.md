@@ -1,2 +1,3 @@
 # hello-world
-First try
+
+Learning how to use GitHub
